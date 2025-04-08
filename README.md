@@ -1,4 +1,4 @@
-### **Olá! Eu sou [Seu Nome] 👋**
+### **Olá! Eu sou [Sergio Sena] 👋**
 
 **Profissional em transição para Tecnologia da Informação**, combinando experiência diversificada e paixão por desafios tecnológicos.
 
