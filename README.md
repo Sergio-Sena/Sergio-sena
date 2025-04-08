@@ -1,4 +1,5 @@
 ## Olá eu sou o Sergio Sena !(●'◡'●)
+## Sou um profissional dedicado em transição para a Tecnologia da Informação, trazendo experiência anterior em logística, segurança, atendimento, vendas, empreendedorismo e manutenção de smartphones. Motivado pela paixão em desvendar desafios tecnológicos, adquiri habilidades sólidas em Python, HTML, CSS, JavaScript, bancos de dados SQL e NoSQL, além de obter a certificação AWS CCP. Busco integrar equipes inovadoras, aplicando minha paixão pela tecnologia, adaptabilidade e diversificado conjunto de habilidades para contribuir para o crescimento e sucesso da empresa. Minha transição para a TI é mais do que uma mudança de carreira; representa uma evolução pessoal e profissional. Estou entusiasmado com as oportunidades e comprometido em aprender e crescer continuamente neste campo dinâmico. Pronto para contribuir, orientado para resultados e disposição para enfrentar desafios.
 
 ##
 
