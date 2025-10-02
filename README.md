@@ -58,10 +58,8 @@ Quero integrar **equipes inovadoras** onde possa contribuir com minha **paixão 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sergio-sena/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-sena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-sena&layout=compact&langs_count=8&theme=dracula&cache_seconds=0"/>
-  </a>
 </div>
 
 <div align="center">
