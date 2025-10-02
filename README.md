@@ -58,14 +58,12 @@ Quero integrar **equipes inovadoras** onde possa contribuir com minha **paixão 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergio-sena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-sena&layout=compact&langs_count=8&theme=dracula&cache_seconds=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-sena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Sena&theme=dracula&cache_seconds=0"/>
 </div>
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Sena&theme=dracula&cache_seconds=0)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-sena&layout=compact&langs_count=8&theme=dracula&cache_seconds=0"/>
 </div>
 
 ### 🏆 GitHub Trophies
