@@ -90,7 +90,7 @@ Quero integrar **equipes inovadoras** onde possa contribuir com minha **paixão 
 
 💬 Estou sempre aberto a novas oportunidades e conversas.
 
-🌐 Verifique meu portfólio em: [https://dev-cloud.sstechnologies-cloud.com/](https://dev-cloud.sstechnologies-cloud.com/)
+🌐 Verifique meu portfólio em: <a href="https://dev-cloud.sstechnologies-cloud.com/" target="_blank">https://dev-cloud.sstechnologies-cloud.com/</a>
 
 <div>
   <a href="https://www.linkedin.com/in/sergio-sena-cloud/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
