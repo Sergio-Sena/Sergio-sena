@@ -72,7 +72,7 @@ Essas experiências me tornaram um profissional completo, capaz de entender tant
 
 ## 🎯 Projetos em Destaque
 
-### 🎬 [MidiaFlow](https://github.com/Sergio-Sena/mediaflow-nextjs-v4)
+### 🎬 [MidiaFlow](https://github.com/Sergio-Sena/mediaflow-nextjs-v4) [![Live](https://img.shields.io/badge/Live-00f7f7?style=flat-square&logo=vercel&logoColor=white)](https://midiaflow.sstechnologies-cloud.com)
 **Plataforma Profissional de Hospedagem de Vídeos**
 - 🚀 Next.js 14 + TypeScript + TailwindCSS
 - ☁️ AWS S3, CloudFront, Lambda, API Gateway
@@ -85,29 +85,30 @@ Essas experiências me tornaram um profissional completo, capaz de entender tant
 
 ---
 
-### 🌐 [AWS Certification Platform](https://github.com/Sergio-Sena/aws-certification-platform)
-**Plataforma Completa de Estudos para Certificações AWS**
-- 📚 Simulados interativos com feedback em tempo real
-- 🎯 Questões categorizadas por serviço AWS
-- 📊 Dashboard de progresso e estatísticas
-- 🏆 Sistema de conquistas e gamificação
+### ☁️ [AWS Services Dashboard](https://github.com/Sergio-Sena/AWS-Services) [![Live](https://img.shields.io/badge/Live-00f7f7?style=flat-square&logo=vercel&logoColor=white)](https://aws-services.sstechnologies-cloud.com)
+**Dashboard Completo para Gerenciamento AWS**
+- 📊 Interface moderna para 7 serviços AWS
+- 🗄️ S3: Upload, download, navegação em pastas
+- ⚡ Lambda, EC2, RDS, DynamoDB, CloudFront
+- 💰 Calculadora com dados reais de faturamento
+- 🔐 Autenticação segura com credenciais AWS
 
-**Tech Stack:** React, Node.js, MySQL, AWS
-
----
-
-### 💾 [Drive Online](https://github.com/Sergio-Sena/drive-online)
-**Sistema de Armazenamento em Nuvem**
-- 📁 Upload e gerenciamento de arquivos
-- 🔍 Busca avançada e organização por pastas
-- 🔐 Controle de acesso e compartilhamento
-- ☁️ Integração completa com AWS S3
-
-**Tech Stack:** Next.js, AWS S3, Lambda, DynamoDB
+**Tech Stack:** Next.js, Node.js, AWS SDK, Express, Serverless Framework
 
 ---
 
-### 🎨 [Dev Cloud Portfolio](https://dev-cloud.sstechnologies-cloud.com/)
+### 🔐 [Ritech Fechaduras Digitais](https://github.com/Sergio-Sena/Loja-Ritech) [![Live](https://img.shields.io/badge/Live-00f7f7?style=flat-square&logo=vercel&logoColor=white)](https://ritech-fechaduras-digitais.sstechnologies-cloud.com)
+**E-commerce de Fechaduras Digitais**
+- 🛒 Catálogo completo de produtos
+- 📱 Design responsivo e moderno
+- 🚀 Performance otimizada com CloudFront
+- 📍 Foco em São Paulo e região
+
+**Tech Stack:** HTML5, CSS3, JavaScript, TailwindCSS, AWS (S3, CloudFront)
+
+---
+
+### 🎨 [Dev Cloud Portfolio](https://github.com/Sergio-Sena/portfolio) [![Live](https://img.shields.io/badge/Live-00f7f7?style=flat-square&logo=vercel&logoColor=white)](https://dev-cloud.sstechnologies-cloud.com)
 **Portfólio Profissional Hospedado na AWS**
 - 🎨 Design moderno e responsivo
 - ⚡ Performance otimizada com CloudFront
