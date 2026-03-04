@@ -1,104 +1,178 @@
 # 👋 Olá! Eu sou Sergio Sena
 
-## 🚀 Profissional em Transição para Tecnologia da Informação
-
-Combinando experiência diversificada e paixão por desafios tecnológicos. Movido pela vontade de aprender e evoluir continuamente.
-
-### 💼 Minha Jornada
-
-Minha trajetória inclui experiências em:
-- **Logística**
-- **Segurança**
-- **Atendimento ao Cliente**
-- **Vendas**
-- **Empreendedorismo**
-- **Manutenção de Smartphones**
-
-Essas áreas me proporcionaram habilidades como **adaptabilidade**, **resolução de problemas** e **visão estratégica**, que agora aplico na área de TI.
-
-### 🎯 Por que TI?
-
-Minha transição para a Tecnologia da Informação é mais do que uma mudança de carreira — é uma **evolução pessoal e profissional**. Estou entusiasmado com as oportunidades que este campo dinâmico oferece e determinado a crescer continuamente.
-
-### 💡 O Que Busco
-
-Quero integrar **equipes inovadoras** onde possa contribuir com minha **paixão pela tecnologia**, **adaptabilidade** e **diversificado conjunto de habilidades**. Estou pronto para enfrentar desafios, entregar resultados e fazer a diferença.
-
-### 🛠️ Habilidades Técnicas
-
-**Linguagens de Programação:**
-- Python, JavaScript
-
-**Web Development:**
-- HTML, CSS
-
-**Bancos de Dados:**
-- SQL, NoSQL, MySQL
-
-**Cloud Computing:**
-- AWS (Certificação **AWS CCP**)
-- Azure
-
-**Frameworks & Ferramentas:**
-- React, Node.js, Next.js
-- Visual Studio Code
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="sergio-aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="center" alt="sergio-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="sergio-html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="sergio-css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="sergio-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="sergio-azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="sergio-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="sergio-nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="sergio-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-sena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Sena&theme=dracula&cache_seconds=0"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-sena&layout=compact&langs_count=8&theme=dracula&cache_seconds=0"/>
-</div>
-
-### 🏆 GitHub Trophies
-
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Sergio-Sena&theme=dracula&no-frame=true&no-bg=false&margin-w=4&cache_seconds=0)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Solutions+Architect;AWS+Certified+Professional;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
-### 🎯 Projetos em Destaque
+## 🚀 Sobre Mim
 
-- 🌐 **[AWS Certification Platform](https://github.com/Sergio-Sena/AWS-Certification-Platform)** - Plataforma de estudos para certificações AWS
-- ☁️ **[AWS Services](https://github.com/Sergio-Sena/AWS-Services)** - Exemplos práticos de serviços AWS
-- 💾 **[Drive Online](https://github.com/Sergio-Sena/drive-online-clean-NextJs)** - Sistema de armazenamento em nuvem com Next.js
-- 🎨 **[Dev Cloud Portfolio](https://github.com/Sergio-Sena/dev-cloud)** - Portfólio profissional hospedado na AWS
-- 🛒 **[Loja Ritech](https://github.com/Sergio-Sena/Loja-Ritech)** - E-commerce com integração AWS
+Desenvolvedor Full Stack apaixonado por criar soluções escaláveis e inovadoras na nuvem. Especializado em **AWS**, **Next.js** e **Python**, com foco em arquiteturas serverless e aplicações modernas.
 
-### 📫 Contato
+```javascript
+const sergio = {
+  code: ["JavaScript", "TypeScript", "Python", "SQL"],
+  technologies: {
+    frontEnd: ["React", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
+    backEnd: ["Node.js", "Express", "FastAPI", "Lambda"],
+    databases: ["MySQL", "PostgreSQL", "DynamoDB", "MongoDB"],
+    cloud: ["AWS (S3, Lambda, API Gateway, CloudFront, RDS)", "Azure"],
+    devOps: ["Docker", "Git", "GitHub Actions", "AWS CDK"]
+  },
+  currentFocus: "Building scalable cloud-native applications",
+  certifications: ["AWS Certified Cloud Practitioner"],
+  nextGoal: "AWS Solutions Architect Associate"
+};
+```
 
-💬 Estou sempre aberto a novas oportunidades e conversas.
+## 💼 Experiência Profissional
 
-🌐 Verifique meu portfólio em: <a href="https://dev-cloud.sstechnologies-cloud.com/" target="_blank">https://dev-cloud.sstechnologies-cloud.com/</a>
+Minha trajetória diversificada me proporcionou habilidades únicas:
 
-<div>
-  <a href="https://www.linkedin.com/in/sergio-sena-cloud/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/sergio.senaoficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:senanetworker@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 🏢 **Empreendedorismo** - Gestão de negócios e tomada de decisões estratégicas
+- 📦 **Logística** - Otimização de processos e eficiência operacional
+- 🛡️ **Segurança** - Atenção aos detalhes e gestão de riscos
+- 💬 **Atendimento ao Cliente** - Comunicação efetiva e resolução de problemas
+- 🔧 **Manutenção Técnica** - Troubleshooting e pensamento analítico
+
+Essas experiências me tornaram um profissional completo, capaz de entender tanto o lado técnico quanto o lado de negócios.
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 🎯 Projetos em Destaque
+
+### 🎬 [MidiaFlow](https://github.com/Sergio-Sena/mediaflow-nextjs-v4)
+**Plataforma Profissional de Hospedagem de Vídeos**
+- 🚀 Next.js 14 + TypeScript + TailwindCSS
+- ☁️ AWS S3, CloudFront, Lambda, API Gateway
+- 🎥 Player de vídeo premium com controles avançados
+- 📊 Sistema de analytics e gestão de usuários
+- 🔐 Autenticação JWT + 2FA
+- 💾 Upload multipart para arquivos grandes (até 5GB)
+
+**Tech Stack:** Next.js, TypeScript, AWS (S3, Lambda, CloudFront, API Gateway, DynamoDB), Python, TailwindCSS
+
+---
+
+### 🌐 [AWS Certification Platform](https://github.com/Sergio-Sena/aws-certification-platform)
+**Plataforma Completa de Estudos para Certificações AWS**
+- 📚 Simulados interativos com feedback em tempo real
+- 🎯 Questões categorizadas por serviço AWS
+- 📊 Dashboard de progresso e estatísticas
+- 🏆 Sistema de conquistas e gamificação
+
+**Tech Stack:** React, Node.js, MySQL, AWS
+
+---
+
+### 💾 [Drive Online](https://github.com/Sergio-Sena/drive-online)
+**Sistema de Armazenamento em Nuvem**
+- 📁 Upload e gerenciamento de arquivos
+- 🔍 Busca avançada e organização por pastas
+- 🔐 Controle de acesso e compartilhamento
+- ☁️ Integração completa com AWS S3
+
+**Tech Stack:** Next.js, AWS S3, Lambda, DynamoDB
+
+---
+
+### 🎨 [Dev Cloud Portfolio](https://dev-cloud.sstechnologies-cloud.com/)
+**Portfólio Profissional Hospedado na AWS**
+- 🎨 Design moderno e responsivo
+- ⚡ Performance otimizada com CloudFront
+- 🔒 HTTPS com certificado SSL
+- 📱 Mobile-first approach
+
+**Tech Stack:** Next.js, AWS (S3, CloudFront, Route53), TailwindCSS
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Sena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Sena&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Sena&theme=tokyonight" alt="Sergio's GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sergio-Sena&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergio-Sena&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+## 🎓 Certificações
+
+- ✅ **AWS Certified Cloud Practitioner** (2024)
+- 🎯 **Em Progresso:** AWS Solutions Architect Associate
+- 🎯 **Próximo:** AWS Developer Associate
+
+## 💡 O Que Me Motiva
+
+> "A tecnologia não é apenas sobre código - é sobre resolver problemas reais e criar impacto positivo."
+
+Busco constantemente:
+- 🚀 Desafios técnicos complexos
+- 🌱 Aprendizado contínuo
+- 🤝 Colaboração em projetos inovadores
+- 💡 Soluções que façam diferença
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-cloud.sstechnologies-cloud.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-sena)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio@sstechnologies-cloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sergio-Sena)
+
 </div>
 
 ---
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Sergio-Sena&color=blueviolet&style=for-the-badge)
+### 💬 "Sempre aberto a novas oportunidades e colaborações!"
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sergio-Sena&color=00f7f7&style=for-the-badge)
 
 ⭐️ From [Sergio-Sena](https://github.com/Sergio-Sena)
 
