@@ -117,29 +117,6 @@ Essas experiências me tornaram um profissional completo, capaz de entender tant
 
 **Tech Stack:** Next.js, AWS (S3, CloudFront, Route53), TailwindCSS
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Sena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Sena&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Sena&theme=tokyonight" alt="Sergio's GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sergio-Sena&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergio-Sena&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ## 🎓 Certificações
 
 - ✅ **AWS Certified Cloud Practitioner** (2024)
